@@ -23,9 +23,18 @@
     <img src="https://user-images.githubusercontent.com/101995486/210347418-a7e6f866-3b02-44c4-ae5e-7207b6415e30.png" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/101995486/210347501-02a0f679-b4c4-438a-a4ac-d5d3b6966225.png" alt="blender" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/101995486/210347501-02a0f679-b4c4-438a-a4ac-d5d3b6966225.png" alt="blender" width="50" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/101995486/210346696-368d40cc-77e1-40b1-aea0-7729d9933317.png" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/101995486/210348300-893e7e07-91af-4891-a6fb-514db90e32dc.png" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/101995486/210348302-6806225d-f797-41b4-854f-d33d6a24f068.png" alt="blender" width="30" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/101995486/210348298-7ba0ad4a-fda5-448c-b8ff-042e1ea0f6c5.png" alt="blender" width="40" height="40"/>
   </a>
 </p>
