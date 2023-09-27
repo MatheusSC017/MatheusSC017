@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Simão</h1>
-<h3 align="center">Multidisciplinary Junior Full-Stack Developer, focused on Python</h3>
+<h3 align="center">Multidisciplinary Full-Stack Developer, focused on Python</h3>
 
 <h3 align="left">Connect with me:</h3>
 
