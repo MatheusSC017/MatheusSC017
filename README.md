@@ -56,7 +56,46 @@
 
 <h3 align="left">About me:</h3>
 
-I am a full-stack developer with expertise in crafting websites and robust APIs. My skill set extends beyond conventional development, encompassing proficiency in Web Scraping, Automation, and Artificial Intelligence. With a comprehensive understanding of diverse technologies, I am dedicated to delivering innovative and efficient solutions that meet the evolving demands of the digital landscape.
+Hello, I'm Matheus Simão Caixeta, and I possess a keen ability to swiftly grasp and
+apply new tools and languages. I place a strong emphasis on fostering social
+interactions to create a harmonious work environment.
+When it comes to my personal projects, I'd like to highlight two distinct examples where
+I diligently harnessed the wealth of knowledge acquired through my continuous
+engagement with courses, articles, documentation, and research.
 
-- Knows HTML, CSS3, Python, JavaScript and React;
-- Full project management from start to finish
+Project 1: Blog Website
+- GitHub Repository: https://github.com/MatheusSC017/BlogNews
+In this project, I've developed a dynamic Blog website that caters to both creators and
+readers of blog posts. Here are some key features and highlights:
+- User-Friendly Interface: I've designed an intuitive interface that allows users to easily
+create and read blog posts.
+- Search Functionality: Users can efficiently search for specific posts using the search
+feature.
+- Newsletter System: One of the standout features of this website is the
+implementation of a newsletter system, enhancing user engagement and interaction.
+- Security with Recaptcha: I've integrated Recaptcha to ensure the security of the
+platform and protect against bots.
+- OAuth Integration: Users can log in and register conveniently using OAuth
+authentication.
+- Unit Testing: To ensure the reliability and stability of the system, I've extensively
+employed unit testing.
+
+Project 2: Car Rental API
+- GitHub Repository: https://github.com/MatheusSC017/Rental-of-vehicles
+In this project, I've developed a robust API for a car rental system using Django Rest
+Framework. Here are some key aspects and achievements of this project:
+- Django Rest Framework: I've leveraged the power of Django Rest Framework to build
+a flexible and efficient API.
+- Serializers: I've implemented serializers to facilitate data validation and
+transformation, ensuring smooth interactions with the API.
+- Date Manipulation: Date manipulation is crucial in a car rental system. I've applied this
+skill to create validation mechanisms for vehicle allocation and scheduling.
+ -  Microservice Implementation: I have developed a microservice using Flask, seamlessly integrated into the main API. This microservice plays a crucial role in retrieving information throughout the vehicle return process.
+-   Integration of Google Maps Technology: Within the microservice, Google Maps technology has been leveraged to determine the distance between two coordinates. This information is pivotal in accurately calculating the return fee associated with the vehicle, when returned in a different branch.
+-   RabbitMQ: Using messaging to send messages via email and Whatsapp
+-   Airflow: Creation of a daily workflow to supply the messaging system
+
+These projects represent my dedication to creating functional and user-friendly solutions
+while incorporating the latest technologies and best practices in web development and
+API design.
+
