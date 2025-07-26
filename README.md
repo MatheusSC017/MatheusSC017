@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matheus Simão</h1>
-<h3 align="center">Multidisciplinary Full-Stack Developer, focused on Python</h3>
+<h3 align="center">Multidisciplinary Full-Stack Python/Java Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -11,6 +11,14 @@
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/MatheusSC017/MatheusSC017/assets/101995486/1b0102fe-2335-4df7-bce9-65bd66002aec" alt="blender" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="java.svg" alt="blender" width="40" height="40"/>
+  </a>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="spring.png" alt="blender" width="40" height="40"/>
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
