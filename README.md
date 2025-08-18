@@ -71,7 +71,22 @@ When it comes to my personal projects, I'd like to highlight two distinct exampl
 I diligently harnessed the wealth of knowledge acquired through my continuous
 engagement with courses, articles, documentation, and research.
 
-Project 1: Blog Website
+Project 1: Car Rental API
+- GitHub Repository: https://github.com/MatheusSC017/Rental-of-vehicles
+In this project, I've developed a robust API for a car rental system using Django Rest
+Framework. Here are some key aspects and achievements of this project:
+- Django Rest Framework: I've leveraged the power of Django Rest Framework to build
+a flexible and efficient API.
+- Serializers: I've implemented serializers to facilitate data validation and
+transformation, ensuring smooth interactions with the API.
+- Date Manipulation: Date manipulation is crucial in a car rental system. I've applied this
+skill to create validation mechanisms for vehicle allocation and scheduling.
+-  Microservice Implementation: I have developed a microservice using Flask, seamlessly integrated into the main API. This microservice plays a crucial role in retrieving information throughout the vehicle return process.
+-   Integration of Google Maps Technology: Within the microservice, Google Maps technology has been leveraged to determine the distance between two coordinates. This information is pivotal in accurately calculating the return fee associated with the vehicle, when returned in a different branch.
+-   RabbitMQ: Using messaging to send messages via email and Whatsapp
+-   Airflow: Creation of a daily workflow to supply the messaging system
+
+Project 2: Blog Website
 - GitHub Repository: https://github.com/MatheusSC017/BlogNews
 In this project, I've developed a dynamic Blog website that caters to both creators and
 readers of blog posts. Here are some key features and highlights:
@@ -88,20 +103,27 @@ authentication.
 - Unit Testing: To ensure the reliability and stability of the system, I've extensively
 employed unit testing.
 
-Project 2: Car Rental API
-- GitHub Repository: https://github.com/MatheusSC017/Rental-of-vehicles
-In this project, I've developed a robust API for a car rental system using Django Rest
-Framework. Here are some key aspects and achievements of this project:
-- Django Rest Framework: I've leveraged the power of Django Rest Framework to build
-a flexible and efficient API.
-- Serializers: I've implemented serializers to facilitate data validation and
-transformation, ensuring smooth interactions with the API.
-- Date Manipulation: Date manipulation is crucial in a car rental system. I've applied this
-skill to create validation mechanisms for vehicle allocation and scheduling.
- -  Microservice Implementation: I have developed a microservice using Flask, seamlessly integrated into the main API. This microservice plays a crucial role in retrieving information throughout the vehicle return process.
--   Integration of Google Maps Technology: Within the microservice, Google Maps technology has been leveraged to determine the distance between two coordinates. This information is pivotal in accurately calculating the return fee associated with the vehicle, when returned in a different branch.
--   RabbitMQ: Using messaging to send messages via email and Whatsapp
--   Airflow: Creation of a daily workflow to supply the messaging system
+Project 3: Force Fit
+
+This project is an Android application designed to manage gym workouts efficiently. The app is structured around three main screens and two key functionalities.
+
+- Home Screen – This section allows users to log their workout sessions for a given day and review their workout history.
+- Personal Screen – Here, users can manage their personal information and track their progress through periodic measurements.
+- Workout Management Screen – This area enables users to create and organize workout routines, including exercises, sets, and repetitions.
+- Additionally, the application includes backup and restore functionalities to ensure the security and preservation of workout data.
+
+Project 4: Vehicle Manager
+
+The Vehicle Manager API is a RESTful Spring Boot application designed to manage vehicle-related operations for businesses or dealerships. It provides a robust backend with secure token-based authentication and supports full CRUD operations across multiple entities.
+Features
+
+- Vehicle Management: Register and manage details about vehicles in inventory.
+- Client Management: Store and retrieve client information for sales and maintenance history.
+- Finance Tracking: Track financial records, transactions, and related data.
+- Maintenance Logging: Log and manage maintenance records for vehicles.
+- Sales Recording: Record vehicle sales, associate them with clients, and manage sales history.
+- Secure Authentication: Uses JSON Web Token (JWT) for secure, token-based authentication.
+
 
 These projects represent my dedication to creating functional and user-friendly solutions
 while incorporating the latest technologies and best practices in web development and
