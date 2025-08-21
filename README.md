@@ -64,14 +64,9 @@
 
 <h3 align="left">About me:</h3>
 
-Hello, I'm Matheus Simão Caixeta, and I possess a keen ability to swiftly grasp and
-apply new tools and languages. I place a strong emphasis on fostering social
-interactions to create a harmonious work environment.
-When it comes to my personal projects, I'd like to highlight two distinct examples where
-I diligently harnessed the wealth of knowledge acquired through my continuous
-engagement with courses, articles, documentation, and research.
+Hello, my name is Matheus Simão Caixeta, and I have a strong ability to quickly assimilate and apply new tools and languages. I place a strong emphasis on social interactions to create a harmonious work environment. Regarding my personal projects, I'd like to highlight a few distinct examples in which I've utilized the knowledge acquired through my ongoing involvement with courses, articles, documentation, and research.
 
-Project 1: Car Rental API
+#### Project 1: Car Rental API
 - GitHub Repository: https://github.com/MatheusSC017/Rental-of-vehicles
 In this project, I've developed a robust API for a car rental system using Django Rest
 Framework. Here are some key aspects and achievements of this project:
@@ -86,7 +81,7 @@ skill to create validation mechanisms for vehicle allocation and scheduling.
 -   RabbitMQ: Using messaging to send messages via email and Whatsapp
 -   Airflow: Creation of a daily workflow to supply the messaging system
 
-Project 2: Blog Website
+#### Project 2: Blog Website
 - GitHub Repository: https://github.com/MatheusSC017/BlogNews
 In this project, I've developed a dynamic Blog website that caters to both creators and
 readers of blog posts. Here are some key features and highlights:
@@ -103,29 +98,45 @@ authentication.
 - Unit Testing: To ensure the reliability and stability of the system, I've extensively
 employed unit testing.
 
-Project 3: Force Fit
+#### Project 3: Force Fit
 
-This project is an Android application designed to manage gym workouts efficiently. The app is structured around three main screens and two key functionalities.
-
-- Home Screen – This section allows users to log their workout sessions for a given day and review their workout history.
-- Personal Screen – Here, users can manage their personal information and track their progress through periodic measurements.
-- Workout Management Screen – This area enables users to create and organize workout routines, including exercises, sets, and repetitions.
-- Additionally, the application includes backup and restore functionalities to ensure the security and preservation of workout data.
-
-Project 4: Vehicle Manager
-
-The Vehicle Manager API is a RESTful Spring Boot application designed to manage vehicle-related operations for businesses or dealerships. It provides a robust backend with secure token-based authentication and supports full CRUD operations across multiple entities.
-Features
-
-- Vehicle Management: Register and manage details about vehicles in inventory.
-- Client Management: Store and retrieve client information for sales and maintenance history.
-- Finance Tracking: Track financial records, transactions, and related data.
-- Maintenance Logging: Log and manage maintenance records for vehicles.
-- Sales Recording: Record vehicle sales, associate them with clients, and manage sales history.
-- Secure Authentication: Uses JSON Web Token (JWT) for secure, token-based authentication.
+##### Description:
+Force Fit is an Android application designed to manage gym workouts efficiently. It helps users log their sessions, track progress, and manage personalized workout routines.
 
 
-These projects represent my dedication to creating functional and user-friendly solutions
-while incorporating the latest technologies and best practices in web development and
-API design.
+##### Features:
+- Home Screen – Log daily workouts and review workout history.
+- Personal Screen – Manage personal data and track body measurements over time.
+- Workout Management – Create and organize workout routines, including exercises, sets, and repetitions.
+- Backup & Restore – Securely save and restore workout data.
 
+##### Technologies Used:
+- Java (Android)
+- Android Studio
+- SQLite (local storage)
+
+#### Project 4: Vehicle Manager
+
+##### Description:
+Vehicle Manager is a RESTful Spring Boot API for managing vehicle operations for businesses and dealerships. It offers secure authentication and full CRUD operations across multiple entities.
+
+##### Features:
+- Vehicle Management – Register and manage vehicles in inventory.
+- Client Management – Store and retrieve client data, including sales & maintenance history.
+- Finance Tracking – Manage transactions and financial records.
+- Maintenance Logging – Track and log vehicle maintenance activities.
+- Sales Recording – Record vehicle sales and associate them with clients.
+- Authentication – Secure JWT-based token authentication.
+
+##### Technologies Used:
+- Java + Spring Boot (backend)
+- Maven (dependency management)
+- Angular (frontend)
+- PostgreSQL (database)
+- JWT (authentication & authorization)
+- RESTful API principles
+
+##### Architecture:
+- Backend: Spring Boot API (exposed via REST)
+- Frontend: Angular application consuming the API
+- Database: Postgres relational database
